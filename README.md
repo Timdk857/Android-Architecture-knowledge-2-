@@ -115,6 +115,9 @@
 
 [最强整理：微信小程序的前世今生](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E6%9C%80%E5%BC%BA%E6%95%B4%E7%90%86%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.md)
 
+# 持续更新中，微信小程序章节已更完，下一章：面试专题
+
 #### Android开发者技术交流群
+领取最新 Android架构视频+BATJ面试专题PDF+学习笔记
 入口：点击链接加入群聊【Android Senior Engineer】：https://jq.qq.com/?_wv=1027&k=dMVwWw6t
 群号：892872246

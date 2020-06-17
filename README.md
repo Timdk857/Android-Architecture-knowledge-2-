@@ -255,3 +255,23 @@
 [腾讯技术团队整理，万字长文轻松彻底入门-Flutter，秒变大前端](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Flutter/%E8%85%BE%E8%AE%AF%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F%E6%95%B4%E7%90%86%EF%BC%8C%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E8%BD%BB%E6%9D%BE%E5%BD%BB%E5%BA%95%E5%85%A5%E9%97%A8-Flutter%EF%BC%8C%E7%A7%92%E5%8F%98%E5%A4%A7%E5%89%8D%E7%AB%AF.md)
 
 [高频Flutter-问题大汇总，总有一款曾困惑你！（含解决问题方法）](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Flutter/%E9%AB%98%E9%A2%91Flutter-%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB%EF%BC%8C%E6%80%BB%E6%9C%89%E4%B8%80%E6%AC%BE%E6%9B%BE%E5%9B%B0%E6%83%91%E4%BD%A0%EF%BC%81%EF%BC%88%E5%90%AB%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E6%96%B9%E6%B3%95%EF%BC%89.md)
+
+## Android Jetpack
+[Android架构组件JetPack之LiveData的工作原理（一）](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Jetpack/Android%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6JetPack%E4%B9%8BLiveData%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%EF%BC%88%E4%B8%80%EF%BC%89.md)
+
+[Android架构组件JetPack之ViewModel(二)](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Jetpack/Android%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6JetPack%E4%B9%8BViewModel(%E4%BA%8C).md)
+
+[Android架构组件JetPack之Room（三）](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Jetpack/Android%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6JetPack%E4%B9%8BRoom%EF%BC%88%E4%B8%89%EF%BC%89.md)
+
+[Android架构组件JetPack之DataBinding玩转MVVM开发实战（四）](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Jetpack/Android%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6JetPack%E4%B9%8BDataBinding%E7%8E%A9%E8%BD%ACMVVM%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%88%E5%9B%9B%EF%BC%89.md)
+
+[Android架构组件JetPack之WorkManager完全解析（五）]()
+
+[Android架构组件JetPack之Lifecycle（六）](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Jetpack/Android%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6JetPack%E4%B9%8BLifecycle%EF%BC%88%E5%85%AD%EF%BC%89.md)
+
+[]()
+
+[]()
+
+[]()
+

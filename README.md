@@ -3,9 +3,11 @@
 ## 阿里P7移动架构师学习路线
 
 >#### Android开发者技术交流群
->领取最新 Android架构视频+BATJ面试专题PDF+学习笔记
+>领取最新 Android架构进阶教学视频+BATJ面试专题PDF+学习笔记
 >入口：点击链接加入群聊【Android Senior Engineer】：https://jq.qq.com/?_wv=1027&k=dMVwWw6t
 >群号：892872246
+
+#### 以下学习教程PDF版资料包请加上述Android开发者交流群，备注“GitHub”免费获取
 
 ### 一、微信小程序
 

@@ -295,6 +295,60 @@
 
 [Android-Framework学习笔记（十一）WindowManager体系](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89WindowManager%E4%BD%93%E7%B3%BB.md)
 
+## Android 音视频学习系列
+
+[Android-音视频学习系列(一)-JNI-从入门到精通](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97(%E4%B8%80)-JNI-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.md)
+
+[Android-音视频学习系列-(二)-交叉编译动态库、静态库的入门学习](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E4%BA%8C)-%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E5%8A%A8%E6%80%81%E5%BA%93%E3%80%81%E9%9D%99%E6%80%81%E5%BA%93%E7%9A%84%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0.md)
+
+[Android-音视频学习系列-(三)-Shell-脚本入门](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E4%B8%89)-Shell-%E8%84%9A%E6%9C%AC%E5%85%A5%E9%97%A8.md)
+
+[Android-音视频学习系列-(四)-一键编译-32-64-位-FFmpeg-4-2-2](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E5%9B%9B)-%E4%B8%80%E9%94%AE%E7%BC%96%E8%AF%91-32-64-%E4%BD%8D-FFmpeg-4-2-2.md)
+
+[Android-音视频学习系列-(五)-掌握音频基础知识并使用-AudioTrack、OpenSL-ES-渲染-PCM-数据](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E4%BA%94)-%E6%8E%8C%E6%8F%A1%E9%9F%B3%E9%A2%91%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%B9%B6%E4%BD%BF%E7%94%A8-AudioTrack%E3%80%81OpenSL-ES-%E6%B8%B2%E6%9F%93-PCM-%E6%95%B0%E6%8D%AE.md)
+
+[Android-音视频学习系列-(六)掌握视频基础知识并使用-OpenGL-ES-2-0-渲染-YUV-数据](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E5%85%AD)%E6%8E%8C%E6%8F%A1%E8%A7%86%E9%A2%91%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%B9%B6%E4%BD%BF%E7%94%A8-OpenGL-ES-2-0-%E6%B8%B2%E6%9F%93-YUV-%E6%95%B0%E6%8D%AE.md)
+
+[Android-音视频学习系列-(七)-从-0-~-1-开发一款-Android-端播放器(支持多协议网络拉流-本地文件)](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E4%B8%83)-%E4%BB%8E-0-~-1-%E5%BC%80%E5%8F%91%E4%B8%80%E6%AC%BE-Android-%E7%AB%AF%E6%92%AD%E6%94%BE%E5%99%A8(%E6%94%AF%E6%8C%81%E5%A4%9A%E5%8D%8F%E8%AE%AE%E7%BD%91%E7%BB%9C%E6%8B%89%E6%B5%81-%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6).md)
+
+[Android-音视频学习系列-(八)基于-Nginx-搭建(rtmp、http)直播服务器](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E5%85%AB)%E5%9F%BA%E4%BA%8E-Nginx-%E6%90%AD%E5%BB%BA(rtmp%E3%80%81http)%E7%9B%B4%E6%92%AD%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
+[Android-音视频学习系列-(九)Android-端实现-rtmp-推流](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E4%B9%9D)Android-%E7%AB%AF%E5%AE%9E%E7%8E%B0-rtmp-%E6%8E%A8%E6%B5%81.md)
+
+[Android-音视频学习系列-(十)基于-FFmpeg-+-OpenSLES-实现音频万能播放器](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97/Android-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97-(%E5%8D%81)%E5%9F%BA%E4%BA%8E-FFmpeg-%2B-OpenSLES-%E5%AE%9E%E7%8E%B0%E9%9F%B3%E9%A2%91%E4%B8%87%E8%83%BD%E6%92%AD%E6%94%BE%E5%99%A8.md)
+
+## Android-高级UI进阶教程系列
+
+[Android-高级-UI-进阶之路-(一)-View-的基础知识你必须知道](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF-(%E4%B8%80)-View-%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93.md)
+
+[Android-高级-UI-进阶之路-(二)-深入理解-Android-8-0-View-触摸事件分发机制](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF-(%E4%BA%8C)-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-Android-8-0-View-%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6.md)
+
+[Android-高级-UI-进阶之路-(三)-理解-View-工作原理并带你入自定义-View-门](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF-(%E4%B8%89)-%E7%90%86%E8%A7%A3-View-%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%B9%B6%E5%B8%A6%E4%BD%A0%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89-View-%E9%97%A8.md)
+
+[Android-高级-UI-进阶之路(四)-Paint-渲染-滤镜-xfermode-使用](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF(%E5%9B%9B)-Paint-%E6%B8%B2%E6%9F%93-%E6%BB%A4%E9%95%9C-xfermode-%E4%BD%BF%E7%94%A8.md)
+
+[Android-高级-UI-进阶之路-(五)-看完该篇文章-Canvas-你应该会了.md](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF-(%E4%BA%94)-%E7%9C%8B%E5%AE%8C%E8%AF%A5%E7%AF%87%E6%96%87%E7%AB%A0-Canvas-%E4%BD%A0%E5%BA%94%E8%AF%A5%E4%BC%9A%E4%BA%86.md)
+
+[Android-高级-UI-进阶之路--(六)-PathMeasure-制作路径动画](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF--(%E5%85%AD)-PathMeasure-%E5%88%B6%E4%BD%9C%E8%B7%AF%E5%BE%84%E5%8A%A8%E7%94%BB.md)
+
+[Android-高级-UI-进阶之路-(七)-SVG-基础使用-+-绘制中国地图](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20%E9%AB%98%E7%BA%A7UI/Android-%E9%AB%98%E7%BA%A7-UI-%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF-(%E4%B8%83)-SVG-%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8-%2B-%E7%BB%98%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE.md)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()

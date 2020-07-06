@@ -271,6 +271,40 @@
 
 [Android架构组件JetPack之Lifecycle（六）](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Jetpack/Android%E6%9E%B6%E6%9E%84%E7%BB%84%E4%BB%B6JetPack%E4%B9%8BLifecycle%EF%BC%88%E5%85%AD%EF%BC%89.md)
 
+## Android framework系列学习笔记
+
+[Android-Framework学习笔记（一）Android-系统架构](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89Android-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.md)
+
+[Android-Framework学习笔记（二）Zygote进程启动过程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89Zygote%E8%BF%9B%E7%A8%8B%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（三）SystemServer进程启动过程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89SystemServer%E8%BF%9B%E7%A8%8B%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（四）Launcher启动过程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89Launcher%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（五）应用程序启动过程.](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（六）应用程序进程启动过程.md](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%BF%9B%E7%A8%8B%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（七）AMS全家桶](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%83%EF%BC%89AMS%E5%85%A8%E5%AE%B6%E6%A1%B6.md)
+
+[Android-Framework学习笔记（八）Service的启动-绑定过程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89Service%E7%9A%84%E5%90%AF%E5%8A%A8-%E7%BB%91%E5%AE%9A%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（九）Broadcast的注册、发送和接收过程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89Broadcast%E7%9A%84%E6%B3%A8%E5%86%8C%E3%80%81%E5%8F%91%E9%80%81%E5%92%8C%E6%8E%A5%E6%94%B6%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（十）Content-Provider启动过程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%EF%BC%89Content-Provider%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+[Android-Framework学习笔记（十一）WindowManager体系](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%20framework/Android-Framework%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89WindowManager%E4%BD%93%E7%B3%BB.md)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()

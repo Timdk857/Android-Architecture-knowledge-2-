@@ -7,7 +7,7 @@
 >入口：点击链接加入群聊【Android Senior Engineer】：https://jq.qq.com/?_wv=1027&k=dMVwWw6t
 >群号：892872246
 
-加群福利（全部免费领取）资料一览：[进阶Android移动开发架构师系统学习笔记+视频教程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%E5%BC%80%E5%8F%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E8%BF%99%E4%BA%9B%EF%BC%9F%E5%A6%82%E4%BD%95%E9%9D%A2%E8%AF%95%E6%8B%BF%E9%AB%98%E8%96%AA%EF%BC%81.md)
+加群福利（全部免费领取）资料一览：[进阶Android移动开发架构师系统学习笔记+视频教程]()
 
 #### 以下学习教程PDF版资料包请加上述Android开发者交流群，备注“GitHub”免费获取
 

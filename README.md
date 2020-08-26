@@ -5,7 +5,7 @@
 ![image](./assets/images.jpg)![每日美女正妹收藏- Home | Facebook](./assets/Facebook.jpeg)
 
 
-![image](./assets/createCircularReveal.jpg)
+![image](./createCircularReveal.jpg)
 
 
 ## 阿里P7移动架构师学习路线

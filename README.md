@@ -2,7 +2,7 @@
 
 
 
-![image](.\assets\images.jpg)![每日美女正妹收藏- Home | Facebook](.\assets\Facebook.jpeg)
+![image](./assets/images.jpg)![每日美女正妹收藏- Home | Facebook](./assets/Facebook.jpeg)
 
 
 

@@ -1,13 +1,6 @@
 # Android-Architecture-knowledge-2-
 
 
-
-![image](./assets/images.jpg)![每日美女正妹收藏- Home | Facebook](./assets/Facebook.jpeg)
-
-
-![image](./createCircularReveal.jpg)
-
-
 ## 阿里P7移动架构师学习路线
 
 >#### Android开发者技术交流群

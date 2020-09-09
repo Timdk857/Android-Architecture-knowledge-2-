@@ -36,7 +36,7 @@
 
 有任何问题，欢迎一起学习交流。
 
-**入口** ：点击链接加入群聊【Android Senior Engineer技术】：<https://jq.qq.com/?_wv=1027&k=7NBD2OCe>
+**入口** ：点击链接加入群聊【Android Senior Engineer技术】：https://jq.qq.com/?_wv=1027&k=1O7Y1iza
 
 ## 1.【阿里P7级全套高级学习视频】七大专题：
 
@@ -102,7 +102,7 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 ## 资料获取：
 
-![Android Senior Engineer技术交流群聊二维码.png](https://upload-images.jianshu.io/upload_images/23319472-f596f58ee1daba2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+请加Android开发者高级技术交流2群：【Android Senior Engineer技术】：[https://jq.qq.com/?_wv=1027&k=1O7Y1iza](https://jq.qq.com/?_wv=1027&k=1O7Y1iza)
 
 
 **Android架构师之路很漫长，一起共勉吧！**

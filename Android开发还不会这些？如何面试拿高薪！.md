@@ -28,7 +28,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/24099992-82bd49401cac16d7.jpg!thumbnail?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-**资料获取方式：加入合作Android架构学习交流Qqun：**2801529500**，管理处免费领取资料**
+**资料获取方式：加入合作Android架构学习交流Qqun：**892872246**，管理处免费领取资料**
 
 群内有许多来自一线的技术大牛，也有在小厂或外包公司奋斗的码农，我们致力打造一个平等，高质量的Android交流圈子，不一定能短期就让每个人的技术突飞猛进，但从长远来说，眼光，格局，长远发展的方向才是最重要的。
 
@@ -104,5 +104,10 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 请加Android开发者高级技术交流2群：【Android Senior Engineer技术】：[https://jq.qq.com/?_wv=1027&k=1O7Y1iza](https://jq.qq.com/?_wv=1027&k=1O7Y1iza)
 
+群号：892872246
+
+点击链接即可加入群聊【Android Senior Engineer技术】：https://jq.qq.com/?_wv=1027&k=1O7Y1iza
+
+管理员人工审核，如有延迟，请谅解
 
 **Android架构师之路很漫长，一起共勉吧！**

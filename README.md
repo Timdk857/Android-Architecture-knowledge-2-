@@ -5,8 +5,10 @@
 
 >#### Android开发者技术交流群
 >领取最新 Android架构进阶教学视频+BATJ面试专题PDF+学习笔记
->入口：点击链接加入群聊【Android Senior Engineer】：https://jq.qq.com/?image_wv=1027&k=dMVwWw6t
->群号：892872246
+>入口：点击链接加入群聊【Android Framework Senior技术】：https://jq.qq.com/?_wv=1027&k=RAxW9ZQX
+>群号：1040256474
+
+![Android Framework Senior技术交流群聊二维码.png](https://upload-images.jianshu.io/upload_images/22976303-ea231865e2755847.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 加群福利（全部免费领取）资料一览：[进阶Android移动开发架构师系统学习笔记+视频教程](https://github.com/Timdk857/Android-Architecture-knowledge-2-/blob/master/Android%E5%BC%80%E5%8F%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E8%BF%99%E4%BA%9B%EF%BC%9F%E5%A6%82%E4%BD%95%E9%9D%A2%E8%AF%95%E6%8B%BF%E9%AB%98%E8%96%AA%EF%BC%81.md)
 

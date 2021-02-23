@@ -28,7 +28,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/24099992-82bd49401cac16d7.jpg!thumbnail?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-**资料获取方式：加入合作Android架构学习交流Qqun：**892872246**，管理处免费领取资料**
+**资料获取方式：加入合作Android架构学习交流Qqun：**1040256474**，管理处免费领取资料**
 
 群内有许多来自一线的技术大牛，也有在小厂或外包公司奋斗的码农，我们致力打造一个平等，高质量的Android交流圈子，不一定能短期就让每个人的技术突飞猛进，但从长远来说，眼光，格局，长远发展的方向才是最重要的。
 
@@ -36,7 +36,7 @@
 
 有任何问题，欢迎一起学习交流。
 
-**入口** ：点击链接加入群聊【Android Senior Engineer技术】：https://jq.qq.com/?_wv=1027&k=1O7Y1iza
+#### 入口 ：点击链接加入群聊【Android Framework Senior技术】：https://jq.qq.com/?_wv=1027&k=RAxW9ZQX
 
 ## 1.【阿里P7级全套高级学习视频】七大专题：
 
@@ -102,11 +102,14 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 ## 资料获取：
 
-请加Android开发者高级技术交流2群：【Android Senior Engineer技术】：[https://jq.qq.com/?_wv=1027&k=1O7Y1iza](https://jq.qq.com/?_wv=1027&k=1O7Y1iza)
+请加Android开发者高级技术交流群：点击链接加入群聊【Android Framework Senior技术】：https://jq.qq.com/?_wv=1027&k=RAxW9ZQX
 
-群号：892872246
+群号：1040256474
 
-点击链接即可加入群聊【Android Senior Engineer技术】：https://jq.qq.com/?_wv=1027&k=1O7Y1iza
+点击链接加入群聊【Android Framework Senior技术】：https://jq.qq.com/?_wv=1027&k=RAxW9ZQX
+
+![Android Framework Senior技术交流群聊二维码.png](https://upload-images.jianshu.io/upload_images/22976303-ea231865e2755847.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 管理员人工审核，如有延迟，请谅解
 

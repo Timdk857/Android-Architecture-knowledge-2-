@@ -309,7 +309,7 @@ C++: env->NewStringUTF(“Hellow World!”);
         unsigned char b_boolean = jboolean1;
         LOGD("boolean-> %d", b_boolean);
 
-        //2\. 接收 Java 传递过来的 boolean 值
+        //2\. 接收 Java 传递过来的 byte 值
         char c_byte = jbyte1;
         LOGD("jbyte-> %d", c_byte);
 
